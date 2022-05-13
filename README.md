@@ -9,6 +9,7 @@
 - A virtual assistant app.
 - Image detection through machine learning.
 - A remade version of The Oregon Trail game from 1971. (🏫 group school project)
+- A scheduling application for my school (🏫 also, group school project)
 - Soooo many more small personal projects.
 
 #### I know programming languages, such as...
@@ -16,14 +17,15 @@
 - ☕ Java
 - 🐍 Python
 - ⏩ Swift
-- ❔ Kotlin
+- ⭐ Kotlin (my favorite by far)
 - And a few more!
 
 #### I have some work experience, like...
 
-- Teaching 7-10 year olds the basics of programming through games. (✨ my favorite so far)
+- Teaching 7-10 year olds the basics of programming through games.
+- Mentoring a middle school STEM club.
 - Designing websites for family and friends.
-- Developing mobile apps for online clients.
+- Freelance developing mobile apps for online clients.
 
 
 ##### Fun fact: I have two turtles. 🐢🐢
