@@ -1,23 +1,15 @@
 ### Hello! 👋👋
 
-#### I'm Jack, a 👨‍🎓 high school student in 🌎 Worcester, Massachusetts.
+#### I'm Jack, a 👨‍🎓 freshman student at Worcester Polytechnic Institute in 🌎 Worcester, Massachusetts.
 
-#### Programming has been my passion for years, and during that time, I've developed...
-
-- A mobile game engine. (🚧 in progress)
-- An exciting mobile game. (🚧 in progress)
-- A virtual assistant app.
-- Image detection through machine learning.
-- A remade version of The Oregon Trail game from 1971. (🏫 group school project)
-- A scheduling application for my school (🏫 also, group school project)
-- Soooo many more small personal projects.
-
-#### I know programming languages, such as...
+#### Programming has been my passion for years, and I've learned programming languages, such as...
 
 - ☕ Java
 - 🐍 Python
 - ⏩ Swift
+- 👓 C#
 - ⭐ Kotlin (my favorite by far)
+- ⌨️ TypeScript / JavaScript 
 - And a few more!
 
 #### I have some work experience, like...
@@ -26,6 +18,7 @@
 - Mentoring a middle school STEM club.
 - Designing websites for family and friends.
 - Freelance developing mobile apps for online clients.
+- Applications Developer at Wilson Language Training, developing resources and tools for teachers across the country.
 
 
 ##### Fun fact: I have two turtles. 🐢🐢
