@@ -1,6 +1,6 @@
 ### Hello! 👋👋
 
-#### I'm Jack, a 👨‍🎓 freshman student at Worcester Polytechnic Institute in 🌎 Worcester, Massachusetts.
+#### I'm Jack, a 👨‍🎓 sophomore student at Worcester Polytechnic Institute in 🌎 Worcester, Massachusetts.
 
 #### Programming has been my passion for years, and I've learned programming languages, such as...
 
