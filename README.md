@@ -18,7 +18,8 @@
 - Mentoring a middle school STEM club.
 - Designing websites for family and friends.
 - Freelance developing mobile apps for online clients.
-- Applications Developer at Wilson Language Training, developing resources and tools for teachers across the country.
+- Web Developer at Wilson Language Training, developing resources and tools for teachers across the country.
+- Software Engineer at Green Project Technologies, building a carbon accounting platform for businesses to manage their emissions.
 
 
 ##### Fun fact: I have two turtles. 🐢🐢
